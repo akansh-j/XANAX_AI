@@ -38,9 +38,6 @@ Download  →  Double-click  →  Use
 3. Save it wherever you like — Desktop, Downloads, or a USB stick. It is one
    single file; there is nothing to unzip.
 
-Direct download link:
-
-<https://github.com/Iyosiprograming/closet/releases/latest/download/Closet%20AI.exe>
 
 <!-- TODO(media): annotated screenshot of the GitHub release page — arrow to "Assets" and a circle around Xanax AI.exe. -->
 
